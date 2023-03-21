@@ -1,0 +1,104 @@
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.exe
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.deps.json
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.runtimeconfig.json
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.pdb
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.AssemblyReference.cache
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfoInputs.cache
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfo.cs
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CoreCompileInputs.cache
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CopyComplete
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\refint\Tutorial 1.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.pdb
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.genruntimeconfig.cache
+D:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\ref\Tutorial 1.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\Roboto.ttf
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\File.xnb
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.exe
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.deps.json
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.runtimeconfig.json
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.pdb
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.AssemblyReference.cache
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfoInputs.cache
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfo.cs
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CoreCompileInputs.cache
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CopyComplete
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\refint\Tutorial 1.dll
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.pdb
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.genruntimeconfig.cache
+F:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\ref\Tutorial 1.dll
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\Roboto.ttf
+D:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\File.xnb
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\Roboto.ttf
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Content\File.xnb
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.exe
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.deps.json
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.runtimeconfig.json
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Tutorial 1.pdb
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.AssemblyReference.cache
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfoInputs.cache
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.AssemblyInfo.cs
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CoreCompileInputs.cache
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.csproj.CopyComplete
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\refint\Tutorial 1.dll
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.pdb
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\Tutorial 1.genruntimeconfig.cache
+G:\school\year 3 sem 1\GPT\Tutorial 1\obj\Debug\net6.0-windows\ref\Tutorial 1.dll
